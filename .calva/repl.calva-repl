@@ -1,0 +1,774 @@
+clj꞉base-projeto-clojure.core꞉> 
+
+( 1 )
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval9774 (repl.calva-repl:3).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:17:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:17:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:15:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:16:1).
+; Unable to resolve symbol: -c in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ArityException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ArityException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:25:12).
+; Unable to resolve symbol: a in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:25:12).
+; Unable to resolve symbol: a in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:27:1).
+; Unable to resolve symbol: a in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ArityException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ArityException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ArityException
+clj꞉base-projeto-clojure.core꞉> 
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:28:1).
+; Unable to resolve symbol: s in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:22:1).
+; Unable to resolve symbol: a in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:22:1).
+; Unable to resolve symbol: carinho in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ArityException) at base-projeto-clojure.core/a (core.clj:19).
+; Wrong number of args (3) passed to: :produto
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/a (core.clj:19).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:24:1).
+; Unable to resolve symbol: -a in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:22).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:22).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:22).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:22).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:24:1).
+; Unable to resolve symbol: c in this context
+clj꞉base-projeto-clojure.core꞉> (c)
+
+; Results are configured to appear in the Output Terminal.
+; To reveal the output, use the command:
+; > Calva: Show/Open the result output destination
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:23:1).
+; Unable to resolve symbol: dd in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:24:1).
+; Unable to resolve symbol: aa in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:0:0).
+; Unable to resolve symbol: def in this context
+; 
+; Syntax error reading source at (REPL:10:16).
+; Unmatched delimiter: )
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error reading source at (REPL:34:1).
+; EOF while reading string
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error macroexpanding clojure.core/let at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:19:5).
+; :item - failed: simple-symbol? at: [:bindings :form :local-symbol] spec: :clojure.core.specs.alpha/local-name
+; :item - failed: vector? at: [:bindings :form :seq-destructure] spec: :clojure.core.specs.alpha/seq-binding-form
+; :item - failed: map? at: [:bindings :form :map-destructure] spec: :clojure.core.specs.alpha/map-bindings
+; :item - failed: map? at: [:bindings :form :map-destructure] spec: :clojure.core.specs.alpha/map-special-binding
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error macroexpanding clojure.core/let at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:19:5).
+; :item - failed: simple-symbol? at: [:bindings :form :local-symbol] spec: :clojure.core.specs.alpha/local-name
+; :item - failed: vector? at: [:bindings :form :seq-destructure] spec: :clojure.core.specs.alpha/seq-binding-form
+; :item - failed: map? at: [:bindings :form :map-destructure] spec: :clojure.core.specs.alpha/map-bindings
+; :item - failed: map? at: [:bindings :form :map-destructure] spec: :clojure.core.specs.alpha/map-special-binding
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:20).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:20).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:20).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:19).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:19).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/-a (core.clj:19).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ArityException) at base-projeto-clojure.core/eval11578 (core.clj:23).
+; Wrong number of args (2) passed to: base-projeto-clojure.core/-a
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:36:12).
+; Expecting var, but String is mapped to class java.lang.String
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:37:12).
+; Expecting var, but String is mapped to class java.lang.String
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:39:14).
+; Expecting var, but String is mapped to class java.lang.String
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval11700 (core.clj:39).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval11703 (core.clj:39).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:40:3).
+; Can't take value of a macro: #'clojure.core/and
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (NullPointerException) at base-projeto-clojure.core/a (core.clj:18).
+; Cannot invoke "clojure.lang.IFn.invoke(Object)"
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (UnsupportedOperationException) at base-projeto-clojure.core/a (core.clj:35).
+; count not supported on this type: Long
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (UnsupportedOperationException) at base-projeto-clojure.core/a (core.clj:35).
+; count not supported on this type: Long
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ArityException) at base-projeto-clojure.core/eval11764 (core.clj:43).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/eval11764/fn--11765
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ArityException) at base-projeto-clojure.core/eval11770 (core.clj:43).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/eval11770/fn--11771
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval11803 (core.clj:50).
+; class java.lang.Boolean cannot be cast to class clojure.lang.IFn (java.lang.Boolean is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (UnsupportedOperationException) at base-projeto-clojure.core/eval11811$fn (core.clj:44).
+; count not supported on this type: core$name
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval11816 (core.clj:44).
+; class java.lang.Boolean cannot be cast to class clojure.lang.IFn (java.lang.Boolean is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (NumberFormatException) at java.lang.NumberFormatException/forInputString (NumberFormatException.java:67).
+; For input string: "a"
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (UnsupportedOperationException) at base-projeto-clojure.core/eval11846$fn (core.clj:43).
+; count not supported on this type: core$name
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:51:12).
+; Unable to resolve symbol: validar in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\bot.clj:11:21).
+; Unable to resolve symbol: historico-usuarios in this context
+clj꞉base-projeto-clojure.bot꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12014$fn (core.clj:21).
+; class clojure.lang.PersistentVector cannot be cast to class java.lang.Number (clojure.lang.PersistentVector is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12020$fn (core.clj:21).
+; class clojure.lang.PersistentVector cannot be cast to class java.lang.Number (clojure.lang.PersistentVector is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ArityException) at base-projeto-clojure.core/eval12026 (core.clj:21).
+; Wrong number of args (1) passed to: base-projeto-clojure.core/eval12026/fn--12027
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12044$fn (core.clj:21).
+; class clojure.lang.PersistentVector cannot be cast to class java.lang.Number (clojure.lang.PersistentVector is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (NullPointerException) at base-projeto-clojure.core/-a (core.clj:20).
+; Cannot invoke "clojure.lang.IFn.invoke(Object)" because the return value of "clojure.core$println.invokeStatic(clojure.lang.ISeq)" is null
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (NullPointerException) at base-projeto-clojure.core/-a (core.clj:20).
+; Cannot invoke "clojure.lang.IFn.invoke(Object)" because the return value of "clojure.core$println.invokeStatic(clojure.lang.ISeq)" is null
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12164 (core.clj:23).
+; class clojure.lang.PersistentArrayMap cannot be cast to class java.lang.Number (clojure.lang.PersistentArrayMap is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:23:1).
+; Unable to resolve symbol: lista in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ArityException) at base-projeto-clojure.core/eval12173 (core.clj:23).
+; Wrong number of args (1) passed to: clojure.core/get
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (IllegalArgumentException) at base-projeto-clojure.core/eval12181 (core.clj:23).
+; Key must be integer
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at clojure.lang.Numbers/multiply (Numbers.java:175).
+; class clojure.lang.PersistentArrayMap cannot be cast to class java.lang.Number (clojure.lang.PersistentArrayMap is in unnamed module of loader 'app'; java.lang.Number is in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:26:1).
+; Unable to resolve symbol: MAP in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at clojure.lang.Numbers/multiply (Numbers.java:175).
+; class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at clojure.lang.Numbers/multiply (Numbers.java:175).
+; class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at base-projeto-clojure.core/fn (core.clj:23).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at clojure.lang.Numbers/multiply (Numbers.java:175).
+; class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at clojure.lang.Numbers/multiply (Numbers.java:175).
+; class java.lang.String cannot be cast to class java.lang.Number (java.lang.String and java.lang.Number are in module java.base of loader 'bootstrap')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at base-projeto-clojure.core/fn (core.clj:23).
+; class java.lang.String cannot be cast to class clojure.lang.IFn (java.lang.String is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ArityException) at clojure.lang.AFn/throwArity (AFn.java:429).
+; Wrong number of args (0) passed to: clojure.lang.PersistentHashMap
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ArityException) at clojure.lang.AFn/throwArity (AFn.java:429).
+; Wrong number of args (0) passed to: clojure.lang.PersistentHashMap
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ArityException) at clojure.lang.AFn/throwArity (AFn.java:429).
+; Wrong number of args (0) passed to: clojure.lang.PersistentHashMap
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ArityException) at clojure.lang.AFn/throwArity (AFn.java:429).
+; Wrong number of args (0) passed to: clojure.lang.PersistentHashMap
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:31:4).
+; Unable to resolve symbol: i in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12480 (core.clj:20).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12482 (core.clj:20).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at (REPL:1).
+; null
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at (REPL:1).
+; null
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at (REPL:1).
+; null
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12490 (core.clj:21).
+; class java.lang.Long cannot be cast to class clojure.lang.IFn (java.lang.Long is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (NullPointerException) at base-projeto-clojure.core/eval12508 (core.clj:21).
+; Cannot invoke "clojure.lang.IFn.invoke()" because the return value of "clojure.lang.RT.get(Object, Object)" is null
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error (NullPointerException) at base-projeto-clojure.core/eval12510 (core.clj:21).
+; Cannot invoke "clojure.lang.IFn.invoke()" because the return value of "clojure.lang.RT.get(Object, Object)" is null
+clj꞉base-projeto-clojure.core꞉> 
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\src\base_projeto_clojure\core.clj:36:1).
+; Unable to resolve symbol: fatura in this context
+clj꞉base-projeto-clojure.core꞉> s
+                            (ns base-projeto-clojure.core)
+                            (ns base-projeto-clojure.core)
+                            (ns base-projeto-clojure.core)
+                            (ns base-projeto-clojure.core)
+clj꞉undefined꞉> 
+
+
+
+asd
+clj꞉undefined꞉> 
+
+; Results are configured to appear in the Output Terminal.
+; To reveal the output, use the command:
+; > Calva: Show/Open the result output destination
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA)
+; Execution error (ArityException) at base-projeto-clojure.core/eval10497 (repl.calva-repl:426).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/MAPA
+clj꞉base-projeto-clojure.core꞉> (MAPA)
+; Execution error (ArityException) at base-projeto-clojure.core/eval10542 (repl.calva-repl:429).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/MAPA
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho)
+; Execution error (ArityException) at base-projeto-clojure.core/eval10544 (repl.calva-repl:433).
+; Wrong number of args (1) passed to: base-projeto-clojure.core/MAPA
+clj꞉base-projeto-clojure.core꞉> (MAPA carinho 2)
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho 2)
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+clj꞉base-projeto-clojure.core꞉> (MAPA carinho 1)
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉>
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at base-projeto-clojure.core/MAPA$fn (core.clj:19).
+; class java.lang.Double cannot be cast to class clojure.lang.IFn (java.lang.Double is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at base-projeto-clojure.core/MAPA$fn (core.clj:19).
+; class java.lang.Double cannot be cast to class clojure.lang.IFn (java.lang.Double is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Error printing return value (ClassCastException) at base-projeto-clojure.core/MAPA$fn (core.clj:19).
+; class java.lang.Double cannot be cast to class clojure.lang.IFn (java.lang.Double is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> (MAPA carinho 1)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉>  (MAPA carinho 1)
+; Execution error (ArityException) at base-projeto-clojure.core/eval11528 (repl.calva-repl:465).
+; Wrong number of args (2) passed to: base-projeto-clojure.core/MAPA
+clj꞉base-projeto-clojure.core꞉> 
+ (MAPA carinho 1)
+; Execution error (ArityException) at base-projeto-clojure.core/eval11530 (repl.calva-repl:469).
+; Wrong number of args (2) passed to: base-projeto-clojure.core/MAPA
+clj꞉base-projeto-clojure.core꞉> 
+ (MAPA carinho )
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> (MAPA carinho )
+                                
+; Execution error (ArityException) at base-projeto-clojure.core/eval11627 (repl.calva-repl:476).
+; Wrong number of args (1) passed to: base-projeto-clojure.core/MAPA
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho  1)
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho desc)
+clj꞉base-projeto-clojure.core꞉> 
+(desc)
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval11691 (repl.calva-repl:485).
+; class java.lang.Double cannot be cast to class clojure.lang.IFn (java.lang.Double is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+(println desc)
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho desc)
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho desc)
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(cads)
+clj꞉base-projeto-clojure.core꞉> 
+(cads)clj꞉undefined꞉> 
+
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho 0.2)
+
+; Results are configured to appear in the Output Terminal.
+; To reveal the output, use the command:
+; > Calva: Show/Open the result output destination
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho 0.1)
+; Error printing return value (ClassCastException) at base-projeto-clojure.core/MAPA$fn (core.clj:25).
+; class java.lang.Double cannot be cast to class clojure.lang.IFn (java.lang.Double is in module java.base of loader 'bootstrap'; clojure.lang.IFn is in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho 0.1)
+; Error printing return value (ArityException) at clojure.lang.AFn/throwArity (AFn.java:429).
+; Wrong number of args (0) passed to: clojure.lang.PersistentArrayMap
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho 0.1)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(MAPA carinho 0.1)
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho 0.1)
+clj꞉base-projeto-clojure.core꞉> ; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
