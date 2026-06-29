@@ -772,3 +772,953 @@ clj꞉base-projeto-clojure.core꞉> ; Evaluation of file core.clj failed: class
 clj꞉base-projeto-clojure.core꞉> 
 ; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
 clj꞉base-projeto-clojure.core꞉> 
+clj꞉undefined꞉> 
+clj꞉base-projeto-clojure.core꞉> 
+(-> {:nome "ana" :idade 25}
+    (assoc :nome "pedro")      ;; O mapa entra como 1º argumento aqui
+    :nome                      ;; Abreviação para pegar a chave :nome do mapa resultante
+    (clojure.string/upper-case))
+
+; Results are configured to appear in the Output Terminal.
+; To reveal the output, use the command:
+; > Calva: Show/Open the result output destination
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Error printing return value (IllegalArgumentException) at clojure.lang.RT/seqFrom (RT.java:577).
+; Don't know how to create ISeq from: java.lang.Double
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Error printing return value (IllegalArgumentException) at clojure.lang.RT/seqFrom (RT.java:577).
+; Don't know how to create ISeq from: java.lang.Double
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Error printing return value (IllegalArgumentException) at clojure.lang.RT/seqFrom (RT.java:577).
+; Don't know how to create ISeq from: java.lang.Double
+clj꞉base-projeto-clojure.core꞉> 
+(lista-literal)
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval12401 (repl.calva-repl:888).
+; class clojure.lang.PersistentList cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentList and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+(cads)
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Error printing return value (IllegalArgumentException) at clojure.lang.RT/seqFrom (RT.java:577).
+; Don't know how to create ISeq from: java.lang.Double
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (IllegalArgumentException) at base-projeto-clojure.core/fatura (core.clj:34).
+; Don't know how to create ISeq from: java.lang.Double
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (IllegalArgumentException) at base-projeto-clojure.core/fatura (core.clj:34).
+; Don't know how to create ISeq from: java.lang.Double
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (ArityException) at base-projeto-clojure.core/fatura (core.clj:34).
+; Wrong number of args (1) passed to: base-projeto-clojure.core/fatura/fn--15459
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (ArityException) at base-projeto-clojure.core/fatura (core.clj:34).
+; Wrong number of args (1) passed to: base-projeto-clojure.core/fatura/fn--15459
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (NullPointerException) at base-projeto-clojure.core/fatura$fn (core.clj:37).
+; Cannot invoke "clojure.lang.IFn.invoke()" because the return value of "clojure.core$println.invokeStatic(clojure.lang.ISeq)" is null
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(lista-literal)
+; Execution error (ClassCastException) at base-projeto-clojure.core/eval16374 (repl.calva-repl:1058).
+; class clojure.lang.PersistentList cannot be cast to class clojure.lang.IFn (clojure.lang.PersistentList and clojure.lang.IFn are in unnamed module of loader 'app')
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (NullPointerException) at base-projeto-clojure.core/fatura$fn (core.clj:32).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+; Execution error (NullPointerException) at base-projeto-clojure.core/fatura$fn (core.clj:32).
+; Cannot invoke "Object.getClass()" because "x" is null
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho desc)
+(fatura carinho desc)
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file bot.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+clj꞉base-projeto-clojure.bot꞉> 
+(fatura carinho desc)
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\.calva\repl.calva-repl:1184:1).
+; Unable to resolve symbol: fatura in this context
+clj꞉base-projeto-clojure.bot꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho v/)
+; Syntax error reading source at (REPL:1266:19).
+; Invalid token: v/
+clj꞉base-projeto-clojure.core꞉> 
+(fatura carinho bot/v)
+clj꞉undefined꞉> 
+clj꞉base-projeto-clojure.core꞉> 
+(str/upper-case "add")
+
+; Results are configured to appear in the Output Terminal.
+; To reveal the output, use the command:
+; > Calva: Show/Open the result output destination
+clj꞉base-projeto-clojure.core꞉> 
+(str/upper-case "add")
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> (map :a '({:a 1 :b 0} {:a 2 :b 0} {:a 3 :b 1} {:a 3 :b 0}))
+
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(pp/pprint (mapv number-summary [5 6 7 12 28 42]))
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\.calva\repl.calva-repl:1306:1).
+; No such namespace: pp
+clj꞉base-projeto-clojure.core꞉> 
+(map :a '({:a 1 :b 0} {:a 2 :b 0} {:a 3 :b 1} {:a 3 :b 0}))
+clj꞉base-projeto-clojure.core꞉> 
+(pp/pprint {:nome "Ana" :idade 30 :habilidades ["Clojure" "Java"]})
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\.calva\repl.calva-repl:1312:1).
+; No such namespace: pp
+clj꞉base-projeto-clojure.core꞉> 
+(
+    pprint {:nome "Ana" :idade 30 :habilidades ["Clojure" "Java"]})
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.lang.IllegalArgumentException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ArityException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(testar-inspector)
+; Syntax error compiling at (c:\Users\elvis\OneDrive\Documentos\Clojure\base-projeto-clojure\.calva\repl.calva-repl:1491:1).
+; Unable to resolve symbol: testar-inspector in this context
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(testar-inspector)
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(testar-inspector)
+clj꞉base-projeto-clojure.core꞉> 
+ (inspecionar-tudo {:versao-bot v
+                     :projeto "Base Clojure"
+                     :data (java.util.Date.)})
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(s/explain-data :domain/name-or-id :foo)
+; Execution error at base-projeto-clojure.core/eval12057 (repl.calva-repl:1533).
+; Unable to resolve spec: :domain/name-or-id
+clj꞉base-projeto-clojure.core꞉> 
+(s/explain-data :domain/name-or-id :foo)
+; Execution error at base-projeto-clojure.core/eval12059 (repl.calva-repl:1537).
+; Unable to resolve spec: :domain/name-or-id
+clj꞉base-projeto-clojure.core꞉> 
+(s/conform :ex/vnum3 [1 2 3])
+; Execution error at base-projeto-clojure.core/eval12061 (repl.calva-repl:1541).
+; Unable to resolve spec: :ex/vnum3
+clj꞉base-projeto-clojure.core꞉> 
+(s/conform* :ex/vnum3 [1 2 3])
+; Execution error (IllegalArgumentException) at base-projeto-clojure.core/eval12063 (repl.calva-repl:1545).
+; No implementation of method: :conform* of protocol: #'clojure.spec.alpha/Spec found for class: clojure.lang.Keyword
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.io.FileNotFoundException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.lang.Exception
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class java.lang.Exception
+clj꞉base-projeto-clojure.core꞉> 
+; Execution error at base-projeto-clojure.core/eval12294 (core.clj:19).
+; Unable to resolve spec: :base-projeto-clojure.core/usuario
+clj꞉base-projeto-clojure.core꞉> 
+(s/valid? ::usuario {::id 123 ::nome "Carlos"})
+; Execution error at base-projeto-clojure.core/eval12296 (repl.calva-repl:1572).
+; Unable to resolve spec: :base-projeto-clojure.core/usuario
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(-main)
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉user꞉> 
+clj꞉base-projeto-clojure.core꞉> 
+(s/valid? ::usuario {::id 123})
+; Execution error at base-projeto-clojure.core/eval12384 (repl.calva-repl:1591).
+; Unable to resolve spec: :base-projeto-clojure.core/usuario
+clj꞉base-projeto-clojure.core꞉> 
+(testar-spec)
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(testar-spec)
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(testar-spec)
+clj꞉base-projeto-clojure.core꞉> 
+(testar-spec)
+
+(testar-spec)
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+(string? "")
+clj꞉base-projeto-clojure.core꞉> 
+(string?)
+; Execution error (ArityException) at base-projeto-clojure.core/eval13581 (repl.calva-repl:1629).
+; Wrong number of args (0) passed to: clojure.core/string?--5496
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(va "aa")
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(va "aa")
+(va )
+; Execution error (ArityException) at base-projeto-clojure.core/eval14702 (repl.calva-repl:1664).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/va
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.ExceptionInfo
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(va "")
+clj꞉base-projeto-clojure.core꞉> 
+(va "")
+(va )
+; Execution error (ArityException) at base-projeto-clojure.core/eval15181 (repl.calva-repl:1685).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/va
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(va )
+; Execution error (ArityException) at base-projeto-clojure.core/eval15274 (repl.calva-repl:1693).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/va
+clj꞉base-projeto-clojure.core꞉> 
+(va "")
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(va)
+; Execution error (ArityException) at base-projeto-clojure.core/eval15598 (repl.calva-repl:1714).
+; Wrong number of args (0) passed to: base-projeto-clojure.core/va
+clj꞉base-projeto-clojure.core꞉> 
+(va "")
+(va "ss")
+; Evaluation of file core.clj failed: class clojure.lang.Compiler$CompilerException
+clj꞉base-projeto-clojure.core꞉> 
+(va "")
+clj꞉base-projeto-clojure.http꞉> 
+clj꞉undefined꞉> 
